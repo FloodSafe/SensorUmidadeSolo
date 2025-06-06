@@ -10,7 +10,7 @@ Este projeto foi desenvolvido pelo grupo FloodSafe, com a ideia de criar uma sol
 
 Pensando nisso, este dispositivo realiza um monitoramento ambiental completo, em tempo real, medindo a umidade do solo, e disparando alertar quando passam de uma certa medida de limite.
 
-Link vídeo:       
+Link vídeo: https://youtu.be/jW36lihm5H4      
 Link Wokwi: https://wokwi.com/projects/433045673630087169
 
 ## 🎯 Objetivo
